@@ -25,16 +25,16 @@
 <hr>
 <h2>🌐 Social Media</h2>
 <div>
-    <a href="https://linkedin.com/in/nasserlebib" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=0A66C2" width="60" alt="linkedin logo" /></a>
-    <a href="https://github.com/nasserlebib" target="_blank"><img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF" width="60" alt="github logo" /></a>
-    <a href="https://youtube.com/@nasser-lebib" target="_blank"><img src="https://img.icons8.com/?size=100&id=19318&format=png&color=FF0000" width="60" alt="youTube logo" /></a>
-    <a href="https://x.com/nasserlebib" target="_blank"><img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=FFFFFF" width="60" alt="x logo" /></a>
+    <a href="https://linkedin.com/in/lebibnasser" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=0A66C2" width="60" alt="linkedin logo" /></a>
+    <a href="https://github.com/lebibnasser" target="_blank"><img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF" width="60" alt="github logo" /></a>
+    <a href="https://youtube.com/@lebibnasser" target="_blank"><img src="https://img.icons8.com/?size=100&id=19318&format=png&color=FF0000" width="60" alt="youTube logo" /></a>
+    <a href="https://x.com/lebibnasser" target="_blank"><img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=FFFFFF" width="60" alt="x logo" /></a>
     <a href="https://discord.gg/38q3tVq5wd" target="_blank"><img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=5865F2" width="60" alt="discord logo" /></a>
 </div>
 <hr>
 <h2>☕ Support Me</h3>
 <div>
-    <a href="https://www.buymeacoffee.com/nasserlebib" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="252" alt="bymeacoffee logo"/></a>
+    <a href="https://www.buymeacoffee.com/lebibnasser" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="252" alt="bymeacoffee logo"/></a>
     <img width="18"><img>
-    <a href="https://ko-fi.com/nasserlebib" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="60" width="252" alt="ko-fi logo"/></a>
+    <a href="https://ko-fi.com/lebibnasser" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="60" width="252" alt="ko-fi logo"/></a>
 </div>
