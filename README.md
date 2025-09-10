@@ -14,37 +14,38 @@
 <hr>
 <h2>🛠 Skills</h2>
 <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="html5 logo" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=html" alt="html5 logo" /></a>
     <img width="2">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="css3 logo" /></a>        <img width="4">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript logo" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=css" alt="css3 logo" /></a>        
     <img width="2">
-    <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap logo"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=js" alt="javascript logo" /></a>
     <img width="2">
-    <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss"/></a>
+    <a href="https://getbootstrap.com" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=bootstrap" alt="bootstrap logo"/></a>
     <img width="2">
-    <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git logo" /></a>
+    <a href="https://tailwindcss.com" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=tailwindcss" alt="tailwindcss"/></a>
     <img width="2">
-    <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github logo" /></a>
+    <a href="https://git-scm.com" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=git" alt="git logo" /></a>
     <img width="2">
-    <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" /></a>
+    <a href="https://github.com" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=github" alt="github logo" /></a>
     <img width="2">
-    <a href="https://www.jetbrains.com/webstorm"><img src="https://skillicons.dev/icons?i=webstorm" alt="webstorm logo" /></a>
+    <a href="https://code.visualstudio.com" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=vscode" alt="vscode logo" /></a>
+    <img width="2">
+    <a href="https://www.jetbrains.com/webstorm"><img src="https://skills.syvixor.com/api/icons?i=webstorm" alt="webstorm logo" /></a>
 </div>
 <hr>
 <h2>🌐 Social Media</h2>
 <div>
-    <a href="https://linkedin.com/in/lebibnasser" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo"/></a>
+    <a href="https://linkedin.com/in/lebibnasser" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=linkedin" alt="linkedin logo"/></a>
     <img width="2">
-    <a href="https://github.com/lebibnasser" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github logo"/></a>
+    <a href="https://github.com/lebibnasser" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=github" alt="github logo"/></a>
     <img width="2">
-    <a href="https://youtube.com/@lebibnasser" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" alt="youTube logo"/></a>
+    <a href="https://youtube.com/@lebibnasser" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=youtube" alt="youTube logo"/></a>
     <img width="2">
-    <a href="https://x.com/lebibnasser" target="_blank"><img src="https://skillicons.dev/icons?i=x" alt="twitter logo"/></a>
+    <a href="https://x.com/lebibnasser" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=x" alt="x logo"/></a>
     <img width="2">
-    <a href="https://discord.gg/38q3tVq5wd" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="discord logo" /></a>
+    <a href="https://discord.gg/38q3tVq5wd" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=discord" alt="discord logo" /></a>
     <img width="2">
-    <a href="https://instagram.com/lebibnasser" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo" /></a>
+    <a href="https://instagram.com/lebibnasser" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=instagram" alt="instagram logo" /></a>
 </div>
 <hr>
 <h2>☕ Support Me</h3>
