@@ -40,7 +40,7 @@
     <img width="2">
     <a href="https://youtube.com/@lebibnasser" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" alt="youTube logo"/></a>
     <img width="2">
-    <a href="https://x.com/lebibnasser" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter logo"/></a>
+    <a href="https://x.com/lebibnasser" target="_blank"><img src="https://skillicons.dev/icons?i=x" alt="twitter logo"/></a>
     <img width="2">
     <a href="https://discord.gg/38q3tVq5wd" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="discord logo" /></a>
     <img width="2">
