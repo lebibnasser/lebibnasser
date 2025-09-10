@@ -26,6 +26,10 @@
     <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git logo" /></a>
     <img width="2">
     <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github logo" /></a>
+    <img width="2">
+    <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" /></a>
+    <img width="2">
+    <a href="https://www.jetbrains.com/webstorm"><img src="https://skillicons.dev/icons?i=webstorm" alt="webstorm logo" /></a>
 </div>
 <hr>
 <h2>🌐 Social Media</h2>
@@ -45,7 +49,7 @@
 <hr>
 <h2>☕ Support Me</h3>
 <div>
-    <a href="https://buymeacoffee.com/lebibnasser" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="252" alt="bymeacoffee logo"/></a>
+    <a href="https://buymeacoffee.com/lebibnasser" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="252" alt="bymeacoffee logo"/></a>
     <img width="18"><img>
     <a href="https://ko-fi.com/lebibnasser" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="60" width="252" alt="ko-fi logo"/></a>
 </div>
