@@ -39,7 +39,7 @@
     <img width="2">
     <a href="https://github.com/lebibnasser" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=github" alt="github logo"/></a>
     <img width="2">
-    <a href="https://youtube.com/@lebibnasser" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=youtube" alt="youTube logo"/></a>
+    <a href="https://youtube.com/@lebibnasserx" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=youtube" alt="youTube logo"/></a>
     <img width="2">
     <a href="https://x.com/lebibnasser" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=x" alt="x logo"/></a>
     <img width="2">
