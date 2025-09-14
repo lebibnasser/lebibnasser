@@ -48,8 +48,6 @@
     <a href="https://instagram.com/lebibnasser" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=instagram" alt="instagram logo" /></a>
     <img width="2">
     <a href="https://facebook.com/lebibnasserx" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=facebook" alt="facebook logo"/></a>
-    <img width="2">
-    <a href="mailto:nasserlebib@outlook.com" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=outlook" alt="outlook logo"/></a>
 </div>
 <hr>
 <h2>☕ Support Me</h3>
