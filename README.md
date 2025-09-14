@@ -6,8 +6,8 @@
 <ul>
     <li>🌍 Based in <strong>Kairouan</strong>, <strong>Tunisia</strong>.</li>
     <li>🌐 Portfolio: <a href="https://lebibnasser.com" target="_blank">lebibnasser.com</a>.</li>
-    <li>📫 Contact: <a href="mailto:nasserlebib@outlook.com" target="_blank">lebibnasser@outlook.com</a>.</li>
-    <li>🛠️ Currently working on: <a href="https://nasserlebib.com" target="_blank">My personal portfolio website</a>.</li>
+    <li>📫 Contact: <a href="mailto:lebibnasser@outlook.com" target="_blank">lebibnasser@outlook.com</a>.</li>
+    <li>🛠️ Currently working on: <a href="https://lebibnasser.com" target="_blank">My personal portfolio website</a>.</li>
     <li>📚 Learning: Front-end frameworks like <strong>React</strong> and <strong>Next.js</strong>.</li>
     <li>🤝 Open to collaborating with UX/UI designers to bring ideas to life.</li>
 </ul>
