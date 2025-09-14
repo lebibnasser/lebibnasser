@@ -16,7 +16,7 @@
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=html" alt="html5 logo" /></a>
     <img width="2">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=css" alt="css3 logo" /></a>        
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=css3" alt="css3 logo" /></a>        
     <img width="2">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=js" alt="javascript logo" /></a>
     <img width="2">
