@@ -46,6 +46,7 @@
     <a href="https://discord.gg/38q3tVq5wd" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=discord" alt="discord logo" /></a>
     <img width="2">
     <a href="https://instagram.com/lebibnasser" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=instagram" alt="instagram logo" /></a>
+    <a href="https://facebook.com/lebibnasserx" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=facebook"/></a>
 </div>
 <hr>
 <h2>☕ Support Me</h3>
