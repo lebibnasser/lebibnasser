@@ -53,7 +53,7 @@
 <h2>☕ Support Me</h3>
 <div>
     <a href="https://buymeacoffee.com/lebibnasser"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="252" alt="bymeacoffee logo"/></a>
-    <img width="12"><img>
+    <img width="10"><img>
     <a href="https://ko-fi.com/lebibnasser"><img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="60" width="252" alt="ko-fi logo"/></a>
 </div>
 <hr>
