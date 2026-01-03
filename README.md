@@ -43,7 +43,7 @@
     <img width="2">
     <a href="https://x.com/lebibnasser"><img src="https://skills.syvixor.com/api/icons?i=x" alt="x logo"/></a>
     <img width="2">
-    <a href="https://discord.gg/38q3tVq5wd"><img src="https://skills.syvixor.com/api/icons?i=discord" alt="discord logo"/></a>
+    <a href="https://discord.gg/fq8JMrgSRU"><img src="https://skills.syvixor.com/api/icons?i=discord" alt="discord logo"/></a>
     <img width="2">
     <a href="https://instagram.com/lebibnasser"><img src="https://skills.syvixor.com/api/icons?i=instagram" alt="instagram logo"/></a>
     <img width="2">
