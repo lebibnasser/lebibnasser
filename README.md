@@ -6,7 +6,7 @@
 <ul>
     <li>🌍 Based in Kairouan, Tunisia.</li>
     <li>🌐 Portfolio: <a href="https://lebibnasser.com">lebibnasser.com</a>.</li>
-    <li>📫 Contact: <a href="mailto:lebibnasser@outlook.com">lebibnasser@outlook.com</a>.</li>
+    <li>📫 Contact: <a href="mailto:contact@lebibnasser.com">lebibnasser@outlook.com</a>.</li>
     <li>🛠️ Currently working on: <a href="https://lebibnasser.com">My personal portfolio website</a>.</li>
     <li>📚 Learning: Front-end frameworks like React and Next.js.</li>
     <li>🤝 Open to collaborating with UX/UI designers to bring ideas to life.</li>
