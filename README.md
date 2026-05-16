@@ -1,4 +1,5 @@
-<img src="" alt="Nasser Lebib Banner">
+<img src="https://i.ibb.co/LXrKb4ym/Chat-GPT-Image-May-16-2026-01-32-05-PM.png" alt="Nasser Lebib Banner">
+<hr>
 <h1>Hi 👋 My name is Nasser Lebib</h1>
 <h2>A Passionate Front-End Web Developer</h2>
 <p>I'm Nasser Lebib, a Front-End developer focused on crafting responsive, interactive, and visually appealing websites.<br>learning, improving, and aiming to deliver clean, fast, and engaging user experiences.</p>
