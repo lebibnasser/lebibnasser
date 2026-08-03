@@ -37,21 +37,21 @@
 <hr>
 <h2>🌐 Social Media</h2>
 <div>
-    <a href="https://linkedin.com/in/lebibnasser"><img src="https://skills.syvixor.com/api/icons?i=linkedin" alt="linkedin logo"/></a>
+    <a href="https://linkedin.com/in/nasserlebibdev"><img src="https://skills.syvixor.com/api/icons?i=linkedin" alt="linkedin logo"/></a>
     <img width="2">
-    <a href="https://github.com/lebibnasser"><img src="https://skills.syvixor.com/api/icons?i=github" alt="github logo"/></a>
+    <a href="https://github.com/nasserlebibdev"><img src="https://skills.syvixor.com/api/icons?i=github" alt="github logo"/></a>
     <img width="2">
-    <a href="https://youtube.com/@lebibnasserx"><img src="https://skills.syvixor.com/api/icons?i=youtube" alt="youTube logo"/></a>
+    <a href="https://youtube.com/@nasserlebibdev"><img src="https://skills.syvixor.com/api/icons?i=youtube" alt="youTube logo"/></a>
     <img width="2">
-    <a href="https://x.com/lebibnasser"><img src="https://skills.syvixor.com/api/icons?i=x" alt="x logo"/></a>
+    <a href="https://x.com/nasserlebibdev"><img src="https://skills.syvixor.com/api/icons?i=x" alt="x logo"/></a>
     <img width="2">
-    <a href="https://www.reddit.com/user/lebibnasser"><img src="https://skills.syvixor.com/api/icons?perline=15&i=reddit" alt="reddit logo" /></a>
+    <a href="https://www.reddit.com/user/nasserlebibdev"><img src="https://skills.syvixor.com/api/icons?perline=15&i=reddit" alt="reddit logo" /></a>
     <img width="2">
     <a href="https://discord.gg/fq8JMrgSRU"><img src="https://skills.syvixor.com/api/icons?i=discord" alt="discord logo"/></a>
     <img width="2">
-    <a href="https://instagram.com/lebibnasser"><img src="https://skills.syvixor.com/api/icons?i=instagram" alt="instagram logo"/></a>
+    <a href="https://instagram.com/nasserlebibdev"><img src="https://skills.syvixor.com/api/icons?i=instagram" alt="instagram logo"/></a>
     <img width="2">
-    <a href="https://facebook.com/lebibnasserofficiel"><img src="https://skills.syvixor.com/api/icons?i=facebook" alt="facebook logo"/></a>
+    <a href="https://facebook.com/nasserlebibdev"><img src="https://skills.syvixor.com/api/icons?i=facebook" alt="facebook logo"/></a>
 </div>
 <hr>
 <h2>☕ Support Me</h3>
